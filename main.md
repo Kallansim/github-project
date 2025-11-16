@@ -1,5 +1,5 @@
-# Main project
-## List of Group Members
+## Main project file
+### List of group members
 - Adrian
 - Kallan
 - Yuan
